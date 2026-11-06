@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+.poster {
+    width: 80%;
+    margin: 50px auto;
+}
+
+img {
+    width: 100%;
+    border: 5px solid #f5f0d5;
+}
+
+h1 {
+    font-size: 55px;
+    font-weight: bold;
+    margin-top: 35px;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 40px;
+}
